@@ -1,3 +1,3 @@
 # DIO.ME
 
-## Adicionando novo conteúdo
+## Adicionando novo conteúdo JAVA do curso DIO.ME
